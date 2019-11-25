@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 2nd git files
 hello all
 hello nitesh
 hello kapil
+=======
+eaf asfsa
+>>>>>>> 559c43e77a50a6c5b6701886fa4da42fd2794e8a
