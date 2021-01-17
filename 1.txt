@@ -1,5 +1,2 @@
-this is my 1st git txt file
-this time editing 1.txt file to make some changes.
-add this to previous commit id
-add value
-change save
+this is new changes 
+this is now new changes again
