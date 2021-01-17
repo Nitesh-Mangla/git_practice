@@ -1,8 +1,5 @@
 this is my 1st git txt file
 this time editing 1.txt file to make some changes.
 add this to previous commit id
-<<<<<<< HEAD
 add value
-=======
 change save
->>>>>>> 559c43e77a50a6c5b6701886fa4da42fd2794e8a
