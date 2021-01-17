@@ -1,5 +1,2 @@
-2nd git files
-hello all
-hello nitesh
-hello kapil
-eaf asfsa
+this changes in 2nd file 
+this is new changes
